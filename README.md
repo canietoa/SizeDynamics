@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6917697.svg)](https://doi.org/10.5281/zenodo.6917697)
 # SizeDynamics
 Repository developed by Cesar Augusto Nieto Acuna (2022). University of Delaware. cnieto@udel.edu.
 
